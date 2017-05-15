@@ -4,8 +4,7 @@
 * Profile picture
 * Social media/Contact (Github, LinkedIn, Email)
 * About me + Skills
-* Education
-* Experience
+* CV (Education + Experience)
 * Projects
 * Services I offer
 
