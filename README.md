@@ -3,9 +3,9 @@
 ## Intended content:
 * Profile picture
 * Social media/Contact (Github, LinkedIn, Email)
-* About me
+* About me + Skills
 * Education
-* Skills
+* Experience
 * Projects
 * Services I offer
 
