@@ -9,3 +9,16 @@ body {
 .invisible-text {
 	opacity: 0.0;
 }
+
+#social-links {
+	padding-left: 20px;
+}
+
+.social-icon {
+	font-size: 1.5em;
+	padding-right: 20px;
+}
+
+#cv-download {
+	font-size: 1.4em;
+}
